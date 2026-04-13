@@ -17,9 +17,11 @@ Code Collective is a supportive community for  critical–creative coding. It is
 
 ## Where & When
 
-Seminars every Thursday 11.00-13.00 CEST, 16 April–9 July 2026 at Lab **TBD**, KHM
+Seminars every Thursday 11.00-13.00 CEST, 16 April–9 July 2026, KHM.
 
-Contact [Sarah](sarah.ciston@khm.de) to join
+The lab is in a process of temporary relocation to new spaces TBD. Watch this space for updates and please forgive the dust and minor chaos.
+
+Contact [Sarah](sarah.ciston@khm.de) to join meetups.
 
 ### Schedule
 
@@ -46,8 +48,8 @@ Contact [Sarah](sarah.ciston@khm.de) to join
 
 Sprechstunden: https://tinyurl.com/chatwsarah (Make a time to chat with Sarah)
 
-Tues 11.00–13.00, Co-working @ Lab  
-Tues 14.00–15.50, 1:1 Appointments @ Heumarkt 14, R3.19  
+Tues 11.00–13.00, Co-working @ Lab
+Tues 14.00–15.50, Appointments/Co-working @ Lab <!--1:1 Appointments @ Heumarkt 14, R3.19-->
 Thurs 14.00–16.00, Appointments/Co-working @ Lab  
 
 **Aiden Vetter** (he/they) Wissenschaftliche Hilfskraft [aiden dot vetter at khm dot de](aiden.vetter@khm.de)
