@@ -8,6 +8,6 @@ Or here: https://wolke.khm.de/index.php/s/ETRjKwjor7ncKyo
 |Sarah Ciston|[@sarahciston](https://github.com/sarahciston)|[sarahciston.com](https://sarahciston.com)|critical AI, old-school vibe coding, military AI use, knitting, zine-making, queer feminist poetics|edge AI, small language models, RFID for installations|
 |Aiden Vetter|@13c13rq||||
 ||||||
-|Merre|[hochstabil](https://github.com/hochstabil)|[Soundcloud Page](https://soundcloud.com/user-405110167)|||
+|Merre|[@hochstabil](https://github.com/hochstabil)|[Soundcloud Page](https://soundcloud.com/user-405110167)|||
 ||||||
 ||||||
