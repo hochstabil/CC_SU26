@@ -7,7 +7,7 @@ Or here: https://wolke.khm.de/index.php/s/ETRjKwjor7ncKyo
 |---|---|---|---|---|
 |Sarah Ciston|[@sarahciston](https://github.com/sarahciston)|[sarahciston.com](https://sarahciston.com)|critical AI, old-school vibe coding, military AI use, knitting, zine-making, queer feminist poetics|edge AI, small language models, RFID for installations|
 |Aiden Vetter|@13c13rq||||
-||||||
+|jeo kang|@jeokang|https://www.instagram.com/jeo_kang/|||
 ||||||
 ||||||
 ||||||
